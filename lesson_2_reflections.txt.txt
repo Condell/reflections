@@ -25,3 +25,10 @@ Creating different modes in a game, trying out something experimental. They dont
 How do the diagrams help you visualize the branch structure?
 
 They give a visual representation to what is otherwise going on through text.
+
+
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is the "good / final" code is there. Because a branch structure is an easy concept to apply to this. 
