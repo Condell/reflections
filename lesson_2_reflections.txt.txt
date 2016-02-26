@@ -20,3 +20,8 @@ you can check your changes to the current commit and make sure too much hasn't c
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Creating different modes in a game, trying out something experimental. They dont change the master branch at all. You still have a working product.
+
+
+How do the diagrams help you visualize the branch structure?
+
+They give a visual representation to what is otherwise going on through text.
