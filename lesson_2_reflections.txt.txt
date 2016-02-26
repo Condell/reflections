@@ -7,3 +7,14 @@ Creates a .git file. You need to do it so that later you can use commits.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It allows you to decide which files you want to make your first commit.
+
+
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+you can check your changes to the current commit and make sure too much hasn't changed.
+
+
+
+
