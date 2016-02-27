@@ -13,3 +13,9 @@ If git stayed up to date, you might pull things you dont want.
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Forks clone repositories on github to allow you to clone them to your machine and mofiy them without having to change the original contributers code. Clones can be used to pull repositories from github to a local machine or from local machine to local machine. You want to use branches when youre on a local machine and need to make an addition to a repository without changing the master.
+
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+You can add changes to the most recent commit (???)
