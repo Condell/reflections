@@ -19,3 +19,9 @@ Forks clone repositories on github to allow you to clone them to your machine an
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 You can add changes to the most recent commit (???)
+
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+We would have to share files some other way and version control would be a LOT harder.
