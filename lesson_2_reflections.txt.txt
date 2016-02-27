@@ -32,3 +32,8 @@ They give a visual representation to what is otherwise going on through text.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The result is the "good / final" code is there. Because a branch structure is an easy concept to apply to this. 
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Git shows you where the conflicts are compared to having to search for them manually.
