@@ -25,3 +25,9 @@ You can add changes to the most recent commit (???)
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 We would have to share files some other way and version control would be a LOT harder.
+
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When you want to experiment and try new things without the master "breaking". Working directly in master means you wont have to push and pull from others all the time, however if you use branches then you are more free to do many things at once.
